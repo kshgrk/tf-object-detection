@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fuck_you</folder>
+	<filename>fuck_you.74ab4c80-efda-11ec-8917-6c6a77e13cd2.jpg</filename>
+	<path>/home/kshgrk/github/tf-object-detection/assets/images/fuck_you/fuck_you.74ab4c80-efda-11ec-8917-6c6a77e13cd2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>FuckYou</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>190</ymin>
+			<xmax>245</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>
