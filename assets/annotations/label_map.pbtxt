@@ -1,0 +1,20 @@
+item { 
+	name:'FuckYou'
+	id:1
+}
+item { 
+	name:'Paper'
+	id:2
+}
+item { 
+	name:'Rock'
+	id:3
+}
+item { 
+	name:'Scissor'
+	id:4
+}
+item { 
+	name:'Sheesh'
+	id:5
+}
